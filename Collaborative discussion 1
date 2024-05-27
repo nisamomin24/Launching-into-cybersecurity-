@@ -1,0 +1,17 @@
+As discussed in multiple learning discussion, the increase in cyber threats globally caused a rise in the demand of Cyber security professionals and measures to protect companies and their service users from cyber-attacks and prevent both financial and social losses.
+
+AWS is a renowned cloud service provider in offering secure services to its various customers by creating safe and secure infrastructure for computing, databases, storage and networking services by implementing the CIA triad of confidentiality, integrity and availability. (AWS, 2016) Furthermore, AWS offers wide range of security solutions like secure network architecture which includes AWS compliance program, network security by secure access points for safe incoming and outgoing messages, by transmission protection through secure socket layer (SSL) and AWS automated corporate segregation. AWS also protects the user account access by access credentials like passwords, MFA (multi-factor authentication), access keys, key pairs and certifications. (Overview of the security process, 2016)
+
+AWS also offers protection against DDoS (distributed denial of service) through network firewall, web application firewall, host-based or IDS/IPS systems and traffic shaping techniques. (AWS, 2016) Following the DDoS (distributed denial of service) attack on AWS at 2.3 tbps in 2020 as mentioned in the previous discussion and the valuable responses from my peers, there is still potential to learn and implement new techniques like zero-trust model which provide multi-layer protection from controlled access to detecting anomalies, halt unwanted traffic and prevent attacks. Moreover, model like shared responsibility should be included in the cloud environment whereby both service provider and user should share the responsibility to keep the system safe from their ends. (Paul, 2020)
+
+The discussions by the peers on the cyber-attacks over many companies highlighted the need to understand and implement the tight security measures, constant learning and understanding of the nature of the attacks and to come up with modern procedure and policies to fight the advancing attacks. It is of paramount importance to be vigilant of any potential threat and share the responsibility as both service provider and the service user.
+
+ 
+
+References:
+
+AWS (2016). AWS Security Best Practices. Available from: https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf [Accessed 09/10/2022].
+
+AWS (2016). Amazon Web Services: Overview Of Security Process. Available from: https://d1.awsstatic.com/whitepapers/aws-security-whitepaper.pdf [Accessed 09/10/2022].
+
+Paul, N. AWS Hit By Largest Reported DDoS Attack Of 2.3 Tbps. Available from: https://www.a10networks.com/blog/aws-hit-by-largest-reported-ddos-attack-of-2-3-tbps/ [Accessed 09/10/2022].
