@@ -1,0 +1,16 @@
+Covid pandemic left myriad number of people working from home due to social distancing requirements and despite the world recovering from its effects, people have adapted a complete or hybrid work from home model. This transition in the working environment has given opportunities to cyber-attackers to fulfil their malicious intentions and requires both network and application security. (Helga, 2022)
+
+VPN has gained popularity as 31% of people connect through VPN every day. (Helga, 2022) VPNs are secured channels of communication from a device to the other endpoint where the data is encrypted throughout the tunnel to create secure connectivity between the two endpoints. VPNs hide user’s valuable information such as devices, IP addresses, location and browsing history etc. and adds an extra layer of privacy. There are several other benefits like securing shared resources in companies, cost effectiveness without exposing security, securing data on mobile devices. Despite having multiple advantages, VPN slows down the internet speed but with the advancement in technology, this hurdle can be overcome. (Rajnil, 2022)
+
+Furthermore, NIDS (network intrusion detection system) is one of the network security technologies that scrutinizes network traffic and sends alerts to the system administrators or security information and event management (SIEM). There are two types of detection methods, signature based detection which looks for similar attack or signature patterns and responds and the other one is anomaly based detection which uses machine learning labels through a classification system to declare the activity as normal or an anomaly. (Catherine, 2022) Again, there are various advantages and if collaborated with IPS (Intrusion prevention system). (Josue, 2022) IDS provide transparency hence helps in the compliance of important regulatory bodies such as GDPR, HIPAA and PCI-DSS. Moreover, it can help detect cyber-attacks in real time and respond proactively by implementing controls. IDS promotes automation of processes rather collating data manually which is time consuming. As every system has its pros and cons and IDS is traditionally known for false positive detections which not only takes time but utilizes more resources. Also, cyber attackers are using evasive techniques whereby malicious activities are not detected and users are given access. (Catherine, 2022)
+
+In conclusion, both network and application security technologies are paramount for security of the systems and should be considered wisely to mitigate the risks of cyber-attacks and prevent malicious activities.
+
+References:
+Helga, Y. (2022) The Importance Of VPN When Working From Home. Available from: https://www.helpwire.app/blog/vpn-importance-for-remote-work/ [Accessed 12 November 2022].
+
+Rajnil, T. (2022) The Importance Of VPN In Network Security. Available from: https://blog.scalefusion.com/importance-of-vpn-in-network-security/ [Accessed 12 November 2022].
+
+Catherine, C. (2022) What Is An intrusion Detection System (IDS)? + Best IDS Tools. Available from: https://www.upguard.com/blog/intrusion-detection-system [Accessed 12 November 2022].
+
+Josue, L. (2022) IDS Vs. IPS: What Organizations Need To Know. Available from: https://www.varonis.com/blog/ids-vs-ips [Accessed 12 November 2022].
